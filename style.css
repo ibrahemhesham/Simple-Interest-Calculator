@@ -1,0 +1,23 @@
+body {background-color:rgb(7, 7, 7);}
+h1{color:green;
+font-family: Arial;
+color: white;}
+
+h1{color: gray;
+font-family: Verdana;}
+
+
+.maindiv{
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    
+    
+}
+.highlight
+{
+    background-color: #ffff00;
+}
+
